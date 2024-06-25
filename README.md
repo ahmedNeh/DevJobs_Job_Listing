@@ -16,3 +16,5 @@ And the Add Job Page
 
 ![Capture-2024-06-25-135338](https://github.com/ahmedNeh/DevJobs_Job_Listing/assets/129086551/76abb6e7-69e4-4707-b5f8-417a54cea81a)
 
+
+and theres node_modules file that i couldnt upload to this repo because the file is too big
